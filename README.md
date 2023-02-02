@@ -1,9 +1,8 @@
-[![MasterHead](https://devtechnosys.com/insights/wp-content/uploads/2022/01/Python.gif)]
+![MasterHead](https://devtechnosys.com/insights/wp-content/uploads/2022/01/Python.gif)
 <h1 align="center">Hi 👋, I'm Manzoor Ahmed Shaikh</h1>
 <h3 align="center">A Enthusiastic Python & AI Developer from Pakistan</h3>
 <img align="right" alt="Python Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manzoorahmedshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="manzoorahmedshaikh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manzoorahmedshaikh" alt="manzoorahmedshaikh" /></a> </p>
 

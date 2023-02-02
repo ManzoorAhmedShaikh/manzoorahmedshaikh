@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **manzoorahmedshaikh234@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10p7Vr717la2E99IPt0YhoZb54U5wwGVC/view?usp=share_link](https://drive.google.com/file/d/10p7Vr717la2E99IPt0YhoZb54U5wwGVC/view?usp=share_link)
+- 📄 Know about my experiences [Click Here](https://bit.ly/3wUz3n7)
 
 - ⚡ Fun fact **I am not hungry. But I am board. Therefore I shall eat.**
 

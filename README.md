@@ -3,9 +3,6 @@
 <h3 align="center">A Enthusiastic Python & AI Developer from Pakistan</h3>
 <img align="right" alt="Python Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manzoorahmedshaikh" alt="manzoorahmedshaikh" /></a> </p>
-
 - 🔭 I’m currently working on **Desktop Application Development**
 
 - 🌱 I’m currently learning **Web Automation and Database**

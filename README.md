@@ -3,9 +3,9 @@
 <h3 align="center">A Enthusiastic Python & AI Developer from Pakistan</h3>
 <img align="right" alt="Python Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-- 🔭 I’m currently working on **Application Engineer**
+- 🔭 I’m currently working as an **Automation Developer**
 
-- 🌱 I’m currently learning **Web Automation and Database**
+- 🌱 I’m currently learning **Web Automation, Scraping and Databases**
 
 - 👯 I’m looking to collaborate on **Selenium Automation and Data Scraping Projects**
 

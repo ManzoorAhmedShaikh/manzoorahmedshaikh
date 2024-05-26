@@ -6,7 +6,7 @@
 
 ---
 
-I'm a Python Developer specializing in Web Automation and Scraping, currently working at Net2Apps as a Python Automation Developer since 2023. Passionate about technology and coding, I'm always ready to tackle the next challenging project. 🚀
+I'm a Python Developer specializing in Web Automation and Scraping, currently working at Net2Apps as a Python Automation Developer since 2023. Passionate about technology and coding, also create Desktop Applications with Python as well, I'm always ready to tackle the next challenging project. 🚀
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **enhancing my skills in GUI development with Python**.
@@ -23,4 +23,4 @@ I'm a Python Developer specializing in Web Automation and Scraping, currently wo
 Here are a few of the technologies I've been working with recently:
 
 ```text
-Python | Selenium | BeautifulSoup | pandas | Tkinter | matplotlib | SQL
+Python | Selenium | BeautifulSoup | pandas | numpy | customTkinter | requests | Tkinter | matplotlib | SQL

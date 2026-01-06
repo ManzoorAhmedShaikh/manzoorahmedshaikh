@@ -6,21 +6,21 @@
 
 ---
 
-I'm a Python Developer specializing in Web Automation and Scraping, currently working at Net2Apps as a Python Automation Developer since 2023. Passionate about technology and coding, also create Desktop Applications with Python as well, I'm always ready to tackle the next challenging project. 🚀
+I'm a Python Developer specializing in AI Automation, Scraping and desktop app development, currently working for a long term client as a Python LLM Developer since 2024. Passionate about technology and coding, crafting efficient code & innovative solutions. I'm always ready to tackle the next challenging project. 🚀
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **enhancing my skills in GUI development with Python**.
-- 🌱 I’m continuously learning more about **advanced web scraping techniques and GUI frameworks**.
-- 👯 I’m looking to collaborate on **projects focused on automation and data extraction**.
-- 🤔 I’m looking for help with **complex GUI issues in Python applications**.
-- 💬 Ask me about **Python, web scraping, automation, and any tech-related stuff**.
+- 🔭 I’m currently working on enhancing my **Version controlling, LLM, Scraping and Automation skills along with GUI development in Python**.
+- 🌱 I’m continuously learning more about **Artificial Intelligence and prompt engineering**.
+- 👯 I’m looking to collaborate on **projects focused on automation, AI, software development and, data extraction**.
+- 🤔 I’m looking for help with **complex Python applications issues of every domain**.
+- 💬 Ask me about **Python, AI, prompt engineering, automation, and any tech-related stuff**.
 - 📫 How to reach me: **manzoorahmedshaikh234@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I'm a huge anime fan, and when I'm not coding, you'll find me gaming or binge-watching movies.**
+- ⚡ Fun fact: **I'm a huge anime fan, and when I'm not coding, you'll find me exercising, swiming or binge-watching movies.**
 
 ### 🛠 Tech Stack
 
 Here are a few of the technologies I've been working with recently:
 
 ```text
-Python | Selenium | BeautifulSoup | pandas | numpy | customTkinter | requests | Tkinter | matplotlib | SQL
+Python | NLP | scikit-learn | curl_cffi | django | flask | Selenium | BeautifulSoup | pandas | numpy | customTkinter | requests | Tkinter | matplotlib | SQL
